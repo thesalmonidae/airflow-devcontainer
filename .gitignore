@@ -1,0 +1,3 @@
+airflow
+dags/__pycache__
+*.png

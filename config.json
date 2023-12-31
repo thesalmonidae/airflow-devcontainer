@@ -1,0 +1,6 @@
+{
+    "observation_site": "Tampere Härmälä",
+    "bounding_box": "23.67,61.43,24.11,61.64",
+    "stored_query": "fmi::observations::weather::multipointcoverage",
+    "plot_directory": "/workspaces/airflow-devcontainer"
+}
