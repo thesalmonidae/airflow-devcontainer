@@ -2,7 +2,7 @@
 
 ## Build devcontainer
 
-Build the devcontainer by running `ctrl+shif+p` in Visual Studio Code, and then select `Dev Containers: Rebuild Container Without Cache`.
+Build the devcontainer by running `ctrl+shift+p` in Visual Studio Code, and then select `Dev Containers: Rebuild Container Without Cache`.
 
 ## Setup Airflow
 
